@@ -1,9 +1,14 @@
+# RetroBat Launcher (MFA)
+
+You need Clickteam Fusion 2.5 Developper updated to the latest release to open mfa file and build retrobat.exe.
+
+This launcher has been created with a proprietary software and is aimed to be replaced by a full new open source launcher in the future.
+
+# License
+
 Copyright (C) 2017-2023 Adrien Chalard
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
